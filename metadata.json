@@ -1,0 +1,6 @@
+{
+  "name": "Daily Life Hub",
+  "description": "Engaging daily quizzes, brain challenges, decision games, meal ideas, and streak rewards built for mobile and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
